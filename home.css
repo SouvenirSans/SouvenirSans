@@ -1,0 +1,263 @@
+/* Home */
+#home{
+width: 150px; 
+color:#5D5FEF;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+}
+
+/* Tentang */
+#tentang{
+width: 150px; 
+color:#000000; 
+font-family: Poppins; 
+font-size: 20px;
+}
+
+/* Kontak */
+#kontak{
+width: 150px; 
+color:#000000; 
+font-family: Poppins; 
+font-size: 20px;
+}
+
+/* Faq */
+#faq{
+width: 150px; 
+color:#000000; 
+font-family: Poppins; 
+font-size: 20px;
+}
+
+/* logo */
+#logo{
+font-family: Wildy Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+color: #5D5FEF;
+text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* Deskripsi */
+#deskripsi{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #5D5FEF;
+}
+
+/* Aneka Produk */
+#aneka{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #5D5FEF;
+}
+
+/* cara pemesanan */
+#cara{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 100px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+
+}
+
+/* aksesoris */
+#aksesoris{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 100px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* deskrpsi aksesoris */
+#deskripsiaksesoris{
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* btn produk */
+#btnproduk{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #5D5FEF;
+
+}
+
+/* icon */
+#icon{
+width: 121px;
+height: 121px;
+left: 202px;
+top: 2145px;
+flood-color: #5D5FEF;
+filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.25));
+}
+
+/* desicon */
+#descicon{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #5D5FEF;
+}
+
+/* desicon2 */
+#descicon2{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* exp */
+#exp{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #5D5FEF;
+}
+
+/* exp2 */
+#exp2{
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* Pemesanan */
+#pemesanan{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 200px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+
+/* icon kirim */
+#iconkirim{
+width: 167px;
+height: 167px;
+}
+
+/* sub kirim */
+#subkirim{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* desckirim */
+#desckirim{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* menu */
+#menu{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 37px;
+text-align: center;
+color: #5D5FEF;
+}
+
+/* footer 1*/
+#logofooter{
+font-family: Wildy Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 69px;
+color: #FFFFFF;
+}
+
+/* footer 2*/
+#subfooter{
+font-family: Poppins;
+font-style: ;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+text-align: justify;
+color: #FFFFFF;
+}
+
+/* footer 3*/
+#footermenu{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 52px;
+color: #FFFFFF;
+
+}
+
+/* footer 4*/
+#textfooter{
+font-family: Poppins;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+
+}
